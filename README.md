@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariyaKuchukyan
 - 👀 I’m interested in data science, sports.
-- 🌱 I’m currently learning IT and aplied mathematics.
+- 🌱 I’m currently learning IT and applied mathematics.
 - 📫 You can always reach me by e-mail.
 
 <!---
